@@ -1,0 +1,29 @@
+{
+  "name": "react-native-status-color-picker",
+  "version": "0.0.1",
+  "description": "Customizable color picker for your beautiful react native apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thakurballary/react-native-status-color-picker.git"
+  },
+  "keywords": [
+    "react native color picker",
+    "react native custom color picker",
+    "react native simple color picker",
+    "color picker with text",
+    "color picker",
+    "ios",
+    "android",
+    "mobile app development"
+  ],
+  "author": "Thakur Ballary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thakurballary/react-native-status-color-picker/issues"
+  },
+  "homepage": "https://github.com/thakurballary/react-native-status-color-picker#readme"
+}
