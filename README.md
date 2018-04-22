@@ -177,14 +177,14 @@ const styles = StyleSheet.create({
 ###### ColorPicker
 Key | Type | Default | Value
 --- | --- | --- | --- 
-color | Array | [] | all css colors
+color | Array | [] | hex color code
 selectedColor | String | '' | mention any one color from array of colors
 onSelect | Function | | pass function to execute onSelect of color
 
 ###### FullScreenColorStatus
 Key | Type | Default | Value
 --- | --- | --- | --- 
-color | Array | [] | all css colors
+color | Array | [] | hex color code
 onChange | Function | | pass function to execute onChange of selectedColor or text
 selectedColor | String | '' | mention any one color from array of colors
 text | String | '' | any string
@@ -192,7 +192,7 @@ text | String | '' | any string
 ###### StatusColorPicker
 Key | Type | Default | Value
 --- | --- | --- | --- 
-color | Array | [] | all css colors
+color | Array | [] | hex color code
 onCancel | Function | | pass function to execute onPress of CANCEL
 onOk | Function | | pass function to execute onPress of OK
 selectedColor | String | '' | mention any one color from array of colors
