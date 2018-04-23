@@ -92,7 +92,7 @@ export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-          <FullScreenColorPicker
+          <FullScreenColorStatus
             colors={this.state.colors}
             selectedColor={this.state.selectedColor}
             text={this.state.text}

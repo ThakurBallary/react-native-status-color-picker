@@ -1,6 +1,6 @@
 {
   "name": "react-native-status-color-picker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Customizable color picker for your beautiful react native apps",
   "main": "index.js",
   "scripts": {
