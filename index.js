@@ -1,3 +1,5 @@
-export ColorPicker from './lib/ColorPicker';
-export FullScreenColorStatus from './lib/FullScreenColorStatus';
-export StatusColorPicker from './lib/StatusColorPicker';
+import ColorPicker from './lib/ColorPicker';
+import FullScreenColorStatus from './lib/FullScreenColorStatus';
+import StatusColorPicker from './lib/StatusColorPicker';
+
+export { ColorPicker, FullScreenColorStatus, StatusColorPicker };
