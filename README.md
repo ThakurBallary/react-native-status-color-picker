@@ -6,6 +6,8 @@ Customizable color picker for your beautiful react native apps
 
 [![NPM](https://nodei.co/npm/react-native-status-color-picker.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-native-status-color-picker/)
 
+Update in progress
+
 ### Getting Started
 
 There are three components in this package:
